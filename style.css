@@ -1,0 +1,37 @@
+h1:hover {
+
+  transition: 1s;
+}
+
+a {
+  color:blue;
+  text-decoration: transparent;  
+}
+
+
+li{
+  padding:5px  
+}
+
+h1{
+  font-size: 60px;
+  transition: 1s;
+}
+
+h2{
+  font-size: 50px;
+}
+
+a{
+  font-size: 20px;
+}
+
+.down{
+  margin-top:100000px;
+}
+.default {cursor: default;}
+.auto {cursor: auto;}
+
+.center{
+  text-align-center;
+}
