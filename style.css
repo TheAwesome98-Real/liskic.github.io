@@ -1,37 +1,22 @@
-h1:hover {
-
-  transition: 1s;
+body {
+  font-family: "Comic Sans MS", cursive;
+  background: pink;
+  color: purple;
 }
 
 a {
-  color:blue;
-  text-decoration: transparent;  
+  text-decoration: none;
+  color: rgb(122, 122, 255);
 }
 
-
-li{
-  padding:5px  
+a:hover {
+  text-decoration: underline;
 }
 
-h1{
-  font-size: 60px;
-  transition: 1s;
+li {
+  padding: 5px;
 }
 
-h2{
-  font-size: 50px;
-}
-
-a{
-  font-size: 20px;
-}
-
-.down{
-  margin-top:100000px;
-}
-.default {cursor: default;}
-.auto {cursor: auto;}
-
-.center{
-  text-align-center;
+.center {
+  text-align: center;
 }
