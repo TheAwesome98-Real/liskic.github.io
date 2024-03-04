@@ -2,6 +2,7 @@ body {
   font-family: "Comic Sans MS", cursive;
   background: pink;
   color: purple;
+  font-weight: bold;
 }
 
 a {
